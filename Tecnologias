@@ -1,1 +1,32 @@
+HTML, CSS, Python, Django, Heroku, JavaScript
 
+
+    nome = Cascading Style Sheets
+    acronimo = CSS
+    ano = 1996
+    criador = World Wide Web Consortium (W3C)
+    
+    nome = HyperText Markup Language
+    acronimo = HTML
+    ano = 1993
+    criador = Tim Berners-Lee
+    
+    nome = Python
+    acronimo = Python
+    ano = 1991
+    criador = Guido van Rossum
+    
+    nome = JavaScript
+    acronimo = JS
+    ano = 1995
+    criador = Brendan Eich 
+    
+    nome = Heroku
+    acronimo = Heroku
+    ano = 2007
+    criador = James Lindenbaum
+    
+    nome = Django
+    acronimo = Django
+    ano = 2005
+    criador =  Adrian Holovaty
