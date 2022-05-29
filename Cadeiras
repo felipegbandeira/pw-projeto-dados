@@ -7,6 +7,7 @@ Demonstrações Financeiras, necessárias numa gestão moderna e participativa
 docente_teorica = Lee Doo Hieng
 docente_pratica = Lee Doo Hieng
 projetos = 
+semestre = 1
 
 Fund de programação
 nome = Fundamentos de Programação
@@ -18,6 +19,7 @@ quais assentarão muitas disciplinas subsequentes
 docente_teorica = Pedro Alves
 docente_pratica = Pedro Alves
 projetos = Jogo de Xadrez em Kotlin
+semestre = 1
 
 Fund de Sistemas de informação
 nome = Fundamentos de Sistemas de Informação
@@ -30,6 +32,7 @@ de Informação em toda a sociedade
 docente_teorica = Acácio Carmona
 docente_pratica = Acácio Carmona
 projetos = 
+semestre = 1
 
 Matemática 1
 nome = Matemática 1
@@ -38,6 +41,7 @@ descricao = Cálculo diferencial e integral com funções reais de uma variável
 docente_teorica = 
 docente_pratica =
 projetos =
+semestre = 1
 
 Teoria e prática de marketing
 nome = Teoria e Prática de Marketing
@@ -48,6 +52,7 @@ a sua ligação com a prática.
 docente_teorica = Fernando Angelino
 docente_pratica = Fernando Angelino
 projetos = Ensaio individual
+semestre = 1
 
 ANO 1 - SEMESTRE 2
 Algoritmia e estrutura de dados
@@ -58,6 +63,7 @@ a nível de tempo de execução e consumo de memória.
 docente_teorica = Pedro Alves
 docente_pratica = Pedro Alves
 projetos = 
+semestre = 2
 
 Cálculo Financeiro
 nome = Cálculo Financeiro
@@ -67,6 +73,7 @@ para a tomada de decisão
 docente_teorica = Rui Cardoso
 docente_pratica = Rui Cardoso
 projetos =
+semestre = 2
 
 Competencias Comportamentais
 nome = Competências Comportamentais
@@ -76,6 +83,7 @@ competências técnicas conhecidas como hard skills.
 docente_teorica = 
 docente_pratica =
 projetos =
+semestre = 2
 
 Ling de Programação 1
 nome = Linguagens de Programação I
@@ -85,6 +93,7 @@ fundamentais de programação procedimental utilizando a Linguagem de programaç
 docente_teorica = Pedro Serra
 docente_pratica = Pedro Serra
 projetos = Projeto utilizando a linguagem C
+semestre = 2
 
 Matemática 2
 nome = Matemática II
@@ -94,6 +103,7 @@ integral para funções reais de várias variáveis reais.
 docente_teorica = 
 docente_pratica =
 projetos =
+semestre = 2
 
 Métricas Empresariais
 nome = Métricas Empresariais
@@ -103,6 +113,7 @@ melhorar as atividades desenvolvidas por organizações.
 docente_teorica = Carlos Jorge Carvalho
 docente_pratica = Carlos Jorge Carvalho
 projetos =
+semestre = 2
 
 ANO 2 - SEMESTRE 1
 Bases de dados
@@ -113,6 +124,7 @@ quer a operação diária de negócio, bem como o apoio à decisão estratégica
 docente_teorica = Rui Ribeiro
 docente_pratica =
 projetos =
+semestre = 1
 
 Instrumentos de gestão
 nome = Instrumentos de Gestão
@@ -123,6 +135,7 @@ universais da Ciência Gestão de Empresas.
 docente_teorica = Carlos Jorge Carvalho
 docente_pratica = Rui Cardoso
 projetos =
+semestre = 1
 
 Investigação operacional
 nome = Investigação Operacional
@@ -132,6 +145,7 @@ escolher e aplicar o algoritmo e interpretar os resultados.
 docente_teorica = Luís Mata
 docente_pratica = Luís Mata
 projetos = Caso de estudo
+semestre = 1
 
 Ling de programação 2
 nome = Linguagens de Programação II
@@ -142,6 +156,7 @@ os paradigmas orientado a objectos e funcional.
 docente_teorica = Pedro Alves
 docente_pratica = Bruno Cipriano
 projetos = Jogo em Java
+semestre = 1
 
 Sistemas operativos
 nome = Sistemas Operativos
@@ -151,6 +166,7 @@ sua organização e programação.
 docente_teorica = Naercio Magaia
 docente_pratica = Naercio Magaia
 projetos = 
+semestre = 1
 
 ANO 2 - SEMESTRE 2
 Engenharia de req
@@ -161,6 +177,7 @@ Informação e o seu impacto na componente aplicacional
 docente_teorica = Rui Ribeiro
 docente_pratica = Acacio Carmona
 projetos =
+semestre = 2
 
 Gestão financeira
 nome = Gestão Financeira
@@ -170,6 +187,7 @@ numa visão de gestão financeira
 docente_teorica = Gualter Agrochão
 docente_pratica = Gualter Agrochão
 projetos = 
+semestre = 2
 
 Programação web
 nome = Programação Web
@@ -179,6 +197,7 @@ desenvolvimento de aplicações Web back-end e front-end
 docente_teorica = Lúcio Studer Ferreira
 docente_pratica = Rui Santos
 projetos = Portfolio
+semestre = 2
 
 Redes de computadores
 nome = Redes de Computadores
@@ -188,6 +207,7 @@ Camada de Transporte, Camada de Rede e Camada de Ligação/Fisica.
 docente_teorica = Tiago Simas
 docente_pratica = Brena Lima
 projetos = Topologia em Cisco Packet Tracer
+semestre = 2
 
 Sistemas de suporte à decisão
 nome = Sistemas de Suporte à Decisão
@@ -198,3 +218,4 @@ de dados para apoio às áreas de gestão das empresas.
 docente_teorica = Rui Ribeiro
 docente_pratica = Andrea 
 projetos =
+semestre = 2
